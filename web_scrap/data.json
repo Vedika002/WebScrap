@@ -1,0 +1,16 @@
+ {"1": {"url":"https://ofac.treasury.gov", "script_name":"script1.py"},
+ "2": {"url":"https://www.seco.admin.ch/seco/en/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos.html", "script_name":"script2.py"},
+ "3": {"url":"https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets/consolidated-list-of-targets", "script_name":"script3.py"},
+ "4": {"url":"https://www.gov.uk/government/publications/the-uk-sanctions-list", "script_name":"script4.py"},
+ "5": {"url":"https://www.gov.uk/government/collections/financial-sanctions-regime-specific-consolidated-lists-and-releases", "script_name":"script5.py"},
+ "6": {"url":"https://www.dfat.gov.au/international-relations/security/sanctions/consolidated-list", "script_name":"script6.py"},
+ "7": {"url":"https://www.dfat.gov.au/international-relations/security/sanctions?page=1", "script_name":"script7.py"},
+ "8": {"url":"https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/current-actuelles.aspx?lang=eng", "script_name":"script8.py"},
+ "9": {"url":"https://data.europa.eu/euodp/en/data/dataset/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions", "script_name":"script9.py"},
+ "10": {"url":"https://www.sanctionsmap.eu/", "script_name":"script10.py"},
+ "11": {"url":"https://www.consilium.europa.eu/en/press/press-releases/?keyword=sanctions", "script_name":"script11.py"},
+ "12": {"url":"https://www.un.org/securitycouncil/content/un-sc-consolidated-list", "script_name":"script12.py"},
+ "13": {"url":"https://www.mof.go.jp/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html", "script_name":"script13.py"},
+ "14": {"url":"https://sanctions.nazk.gov.ua/en/sanction-lists/", "script_name":"script14.py"}
+    
+}
